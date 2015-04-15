@@ -1,0 +1,11 @@
+line | Robot_Found | Computation_Done | Time_Stamp  | Distance_Robot | Angle_to_robot
+1    |   1         | 1                | calcRunTime | 100            | 90
+2    |   1         | 1                | calcRunTime | 100            | 85
+3    |   0         | 1                | calcRunTime | 250            | 60
+4    |   1         | 0                | calcRunTime | 155            | 90
+5    |   1         | 1                | calcRunTime | 100            | 30
+6    |   0         | 1                | calcRunTime | 106            | 45
+7    |   1         | 1                | calcRunTime | 150            | 180
+8    |   1         | 0                | calcRunTime | 300            | 120
+9    |   1         | 1                | calcRunTime | 255            | 90
+null

@@ -1,0 +1,11 @@
+0  #----Client-------
+1  IP          = localHost
+2
+3  #----Camera-------
+4  lower       = 50 25 0
+5  upper       = 255 255 255
+6
+7  #----Calibration--
+8  ObjectSize  = 5
+9  MeasuredDis = 30
+10 Focal       = 500

@@ -1,0 +1,13 @@
+--client--
+python C:\Users\santiago\Desktop\ImageProcessing\PyhtonChat\chat\v2_dummy_Data\client.py
+
+--server--
+python C:\Users\santiago\Desktop\ImageProcessing\PyhtonChat\chat\v2_dummy_Data\server.py
+
+
+
+
+v1 - working
+IP hard coded
+
+

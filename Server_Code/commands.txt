@@ -1,0 +1,29 @@
+NOTES:
+
+server Commands (case sensitive)
+
+data 1 - returns raw data string (no error check)
+
+state 1 - returns the state of the cleint's camera.
+
+loop - requests data from all clients (no error check)
+
+kill - Asks for index to kill 
+
+kill_All - kills all
+
+exit - kills server and Client
+
+show 1 - opens the preview - or - Closes the preview - Will launch with no preview (experimental)
+
+Syntax for commands is as follows: command (space) postion of Pi
+
+add - adds a pi to the network
+
+data_loop - loops all the piis, if one send wrong data it asks for it again. 
+
+
+
+
+
+
